@@ -3,7 +3,7 @@
     "displayName": "Html class snippets with Bootstrap4",
     "description": "Contains some common Bootstrap4's utilities use in html class",
     "publisher": "Linniem",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^0.10.5"
     },
