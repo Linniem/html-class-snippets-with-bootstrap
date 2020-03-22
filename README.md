@@ -3,11 +3,8 @@ Contains some common Bootstraps utility class.
 No components.
 
 ## Release Notes
-### 0.0.2
-Fix README typo
-### 0.0.1
-Start this vscode extension.
-Add some snippets. List below.
+### 0.0.3
+- Changed extension name. 
 
 ## snippets list
 
