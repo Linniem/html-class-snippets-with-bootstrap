@@ -3,8 +3,8 @@ Contains some common Bootstraps utility class.
 No components.
 
 ## Release Notes
-### 0.0.3
-- Changed extension name. 
+### 0.0.4
+- Added a icon. 
 
 ## snippets list
 
